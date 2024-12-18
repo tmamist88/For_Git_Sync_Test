@@ -8,6 +8,12 @@
 |MyIntegration2|None|
 
 
+## Playbooks
+|Name|Description|
+|----|-----------|
+|GilPlaybook||
+
+
 ## Jobs
 |Name|Description|
 |----|-----------|
