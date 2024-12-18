@@ -19,3 +19,10 @@ a
 **Run Interval In Seconds:** 15600
 
 
+## Tehila
+a
+
+
+**Run Interval In Seconds:** 86400
+
+
