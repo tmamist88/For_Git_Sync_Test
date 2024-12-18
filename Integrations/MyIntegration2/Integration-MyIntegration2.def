@@ -1,0 +1,36 @@
+{
+  "IsAvailableForCommunity": false,
+  "Identifier": "MyIntegration2",
+  "ShouldInstalledInSystem": false,
+  "Version": 2.0,
+  "DisplayName": "MyIntegration2",
+  "Description": null,
+  "ImageBase64": null,
+  "SvgImage": null,
+  "IsCustom": true,
+  "PythonVersion": 2,
+  "IntegrationProperties": [],
+  "IntegrationSupportedActions": [
+    {
+      "Name": "Ping2",
+      "Description": "a",
+      "Id": 59,
+      "CreationTimeUnixTimeInMs": 1734513171398,
+      "ModificationTimeUnixTimeInMs": 1734513171398
+    }
+  ],
+  "Categories": null,
+  "HasConnectors": false,
+  "DocumentationLink": null,
+  "IsCertified": false,
+  "UploaderFullName": "Siemplify Admin",
+  "PublishComment": null,
+  "UploaderEmail": "admin@siemplify.co",
+  "UploaderImageBase64": "",
+  "UploaderProfileLink": null,
+  "MinimumSystemVersion": 0.0,
+  "ProductionIntegrationIdentifier": null,
+  "Id": 0,
+  "CreationTimeUnixTimeInMs": 1734513171393,
+  "ModificationTimeUnixTimeInMs": 1734513171393
+}
